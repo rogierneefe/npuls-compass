@@ -1,0 +1,532 @@
+{
+  "roleId": "ict-onderwijskundig-adviseur",
+  "generatedAt": "2026-05-25T09:46:41.093Z",
+  "topInsights": [
+    {
+      "id": "npuls-001",
+      "title": "AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs",
+      "summary": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers. Biedt een gedeeld vocabulaire en aanpak voor mbo, hbo en wo.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "AI-GO! Een raamwerk voor AI-geletterdheid in het onderwijs",
+        "speaker": "Npuls team AI & Data",
+        "track": "AI- en datageletterdheid",
+        "date": "2025-07-14"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Het raamwerk biedt structuur voor instellingen om AI-geletterdheid te verankeren in curriculum, beleid en docentprofessionalisering. Het onderscheidt technische vaardigheden, kritisch denken en ethisch bewustzijn als kerndimensies.",
+      "external_source": "npuls.nl/kennisbank/ai-go-een-raamwerk-voor-ai-geletterdheid-in-het-onderwijs",
+      "product_type": "Kennisproduct (visiedocument + tool)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-002",
+      "title": "Visie op toetsing, examinering en AI (+ 4 handreikingen)",
+      "summary": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Visie op toetsing en examinering: Naar een AI-bewuste toetspraktijk",
+        "speaker": "K. Beekman (Fontys), S. Draaijer (VU), J. Beckers (Fontys)",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2025-05-27"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Privacy, Ethiek & Verantwoorde AI",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Vier downloadbare handreikingen: (1) Toetsing in het AI-tijdperk, (2) AI-integratie op programmaniveau/curriculumontwerp, (3) Ontwerpen van AI-gedreven toetstaken, (4) Aanpakken voor examencommissies. Focus op authenticiteit, validiteit, eerlijkheid en diplomawaarde.",
+      "external_source": "npuls.nl/kennisbank/visie-op-toetsing-examinering-en-ai-handreikingen",
+      "product_type": "Kennisproduct (visie + 4 handreikingen, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Visie op toetsing, examinering en AI (+ 4 handreikingen)\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-019",
+      "title": "Webinar: De AI-waaier – van geen AI naar co-creatie",
+      "summary": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten. Praktische handvatten voor elke fase van de adoptiecurve.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "De AI-waaier – van geen AI naar co-creatie",
+        "speaker": "Npuls team Digitaal toetsen",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2026-05-21"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Online webinar, 21 mei 2026, 15:00-16:00. Koppeling aan digitaal toetsen en ontwikkelen. Onderdeel van de reeks Npuls-webinars over verantwoord AI-gebruik.",
+      "external_source": "npuls.nl/agenda/webinar-de-ai-waaier-van-geen-ai-naar-co-creatie",
+      "product_type": "Evenement (webinar)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Webinar: De AI-waaier – van geen AI naar co-creatie\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-003",
+      "title": "Referentiekader 2.0: Verantwoord gebruik van studiedata en AI",
+      "summary": "Handreiking met richtlijnen voor het ethisch en verantwoord inzetten van studiedata en AI in het vervolgonderwijs. Centraal staan publieke waarden als rechtvaardigheid, menselijkheid en autonomie.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Referentiekader 2.0: Verantwoord gebruik van studiedata en AI",
+        "speaker": "Npuls team AI & Data",
+        "track": "Verantwoord gebruik AI en data",
+        "date": "2025-06-10"
+      },
+      "themes": [
+        "Privacy, Ethiek & Verantwoorde AI",
+        "AI Adoptie & Tools"
+      ],
+      "full_text": "Relevant voor beleidsmedewerkers, docenten, informatiemanagers, ICT-coördinatoren, bestuurders en juristen. Bevat infographic en PDF. Vervangt en verdiept eerdere referentiekaders op het gebied van learning analytics.",
+      "external_source": "npuls.nl/kennisbank/referentiekader-2-0-verantwoord-gebruik-van-studiedata-en-ai",
+      "product_type": "Kennisproduct (handreiking + infographic, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools.",
+        "core_idea": "Handreiking met richtlijnen voor het ethisch en verantwoord inzetten van studiedata en AI in het vervolgonderwijs.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Privacy, Ethiek & Verantwoorde AI.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Referentiekader 2.0: Verantwoord gebruik van studiedata en AI\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-005",
+      "title": "EduGenAI – platform voor generatieve AI in het onderwijs",
+      "summary": "Nederlands sectorbreed platform waarmee onderwijsinstellingen veilig en verantwoord kunnen experimenteren met generatieve AI. Biedt gedeelde infrastructuur, ondersteuning en governance voor GenAI-toepassingen.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "EduGenAI: van pilot naar een veilige en verantwoorde dienst",
+        "speaker": "Bas Smit, Projectleider Generatieve AI bij Npuls",
+        "track": "Voorzieningen AI en data",
+        "date": "2026-05-18"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Platform & Infrastructuur"
+      ],
+      "full_text": "EduGenAI is de gedeelde AI-infrastructuur voor alle mbo, hbo en wo instellingen. Webinar op 18 mei 2026: 'Van pilot naar een veilige en verantwoorde dienst'. Naast EduGenAI werkt Npuls ook aan CEDA (Central Education Data Analytics).",
+      "external_source": "npuls.nl/edugenai",
+      "product_type": "Platform / Digitale sectorvoorziening",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools.",
+        "core_idea": "Nederlands sectorbreed platform waarmee onderwijsinstellingen veilig en verantwoord kunnen experimenteren met generatieve AI.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"EduGenAI – platform voor generatieve AI in het onderwijs\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-010",
+      "title": "Learning Analytics Magazine – docenten en data",
+      "summary": "Praktijkgericht magazine over Teacher-Facing Learning Analytics (TFLA): hoe docenten data kunnen inzetten om studenten beter te begeleiden. Best en worst practices, concrete voorbeelden.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Npuls Magazine #3 – Learning Analytics: docenten vooruit helpen",
+        "speaker": "Npuls redactie",
+        "track": "AI en data",
+        "date": "2025-03-01"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Betrokkenheid & Mensgerichtheid"
+      ],
+      "full_text": "Eerste editie Learning Analytics magazine. Deelt inzichten over hoe learning analytics optimaal benut kunnen worden door docenten. Aandacht voor praktijkimplementatie en ethische vraagstukken rondom studiedata.",
+      "external_source": "community-data-ai.npuls.nl",
+      "product_type": "Kennisproduct (magazine)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools.",
+        "core_idea": "Praktijkgericht magazine over Teacher-Facing Learning Analytics (TFLA): hoe docenten data kunnen inzetten om studenten beter te begeleiden.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Learning Analytics Magazine – docenten en data\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-014",
+      "title": "ImpactScan – digitale open leermaterialen",
+      "summary": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL). Zes aandachtspunten, vijf ontwikkelfasen. Helpt cyclisch verbeteren en evidence-informed werken.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "ImpactScan – begeleidingsinstrument voor digitale open leermaterialen",
+        "speaker": "Npuls team Onderwijsmiddelen",
+        "track": "Digitale leermaterialen",
+        "date": "2025-06-11"
+      },
+      "themes": [
+        "Onderwijsinnovatie & Didactiek",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Aandachtspunten: Visie & Beleid, Cultuur, Kwaliteit, Proces, Technologie en Samenwerking. Onderdeel van regeling OpenUp (24 instellingen). Aanvullend aan de Gereedheidsscan.",
+      "external_source": "npuls.nl/kennisbank/impactscan/",
+      "product_type": "Kennisproduct (scan/instrument)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL).",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Onderwijsinnovatie & Didactiek.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"ImpactScan – digitale open leermaterialen\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-016",
+      "title": "Event 'Leren zonder drempels' – workshops flexibel onderwijs",
+      "summary": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden. Praktische handvatten voor implementatie in de eigen instelling.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Leren zonder drempels: Aan de slag!",
+        "speaker": "Npuls experts flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2026-01-20"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Workshopkeuze voor deelnemers. Thema's: microcredentials, digitale identiteit (eduwallet), standaarden voor leren zonder drempels. Event in januari 2026, inmiddels gehouden – materialen beschikbaar.",
+      "external_source": "npuls.nl/agenda/leren-zonder-drempels-event",
+      "product_type": "Evenement (workshop)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Event 'Leren zonder drempels' – workshops flexibel onderwijs\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    }
+  ],
+  "signals": [],
+  "risks": [],
+  "provocations": [],
+  "tools": [
+    {
+      "id": "npuls-001",
+      "title": "AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs",
+      "summary": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers. Biedt een gedeeld vocabulaire en aanpak voor mbo, hbo en wo.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "AI-GO! Een raamwerk voor AI-geletterdheid in het onderwijs",
+        "speaker": "Npuls team AI & Data",
+        "track": "AI- en datageletterdheid",
+        "date": "2025-07-14"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Het raamwerk biedt structuur voor instellingen om AI-geletterdheid te verankeren in curriculum, beleid en docentprofessionalisering. Het onderscheidt technische vaardigheden, kritisch denken en ethisch bewustzijn als kerndimensies.",
+      "external_source": "npuls.nl/kennisbank/ai-go-een-raamwerk-voor-ai-geletterdheid-in-het-onderwijs",
+      "product_type": "Kennisproduct (visiedocument + tool)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-002",
+      "title": "Visie op toetsing, examinering en AI (+ 4 handreikingen)",
+      "summary": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Visie op toetsing en examinering: Naar een AI-bewuste toetspraktijk",
+        "speaker": "K. Beekman (Fontys), S. Draaijer (VU), J. Beckers (Fontys)",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2025-05-27"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Privacy, Ethiek & Verantwoorde AI",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Vier downloadbare handreikingen: (1) Toetsing in het AI-tijdperk, (2) AI-integratie op programmaniveau/curriculumontwerp, (3) Ontwerpen van AI-gedreven toetstaken, (4) Aanpakken voor examencommissies. Focus op authenticiteit, validiteit, eerlijkheid en diplomawaarde.",
+      "external_source": "npuls.nl/kennisbank/visie-op-toetsing-examinering-en-ai-handreikingen",
+      "product_type": "Kennisproduct (visie + 4 handreikingen, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Visie op toetsing, examinering en AI (+ 4 handreikingen)\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-019",
+      "title": "Webinar: De AI-waaier – van geen AI naar co-creatie",
+      "summary": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten. Praktische handvatten voor elke fase van de adoptiecurve.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "De AI-waaier – van geen AI naar co-creatie",
+        "speaker": "Npuls team Digitaal toetsen",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2026-05-21"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Online webinar, 21 mei 2026, 15:00-16:00. Koppeling aan digitaal toetsen en ontwikkelen. Onderdeel van de reeks Npuls-webinars over verantwoord AI-gebruik.",
+      "external_source": "npuls.nl/agenda/webinar-de-ai-waaier-van-geen-ai-naar-co-creatie",
+      "product_type": "Evenement (webinar)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Webinar: De AI-waaier – van geen AI naar co-creatie\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-003",
+      "title": "Referentiekader 2.0: Verantwoord gebruik van studiedata en AI",
+      "summary": "Handreiking met richtlijnen voor het ethisch en verantwoord inzetten van studiedata en AI in het vervolgonderwijs. Centraal staan publieke waarden als rechtvaardigheid, menselijkheid en autonomie.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Referentiekader 2.0: Verantwoord gebruik van studiedata en AI",
+        "speaker": "Npuls team AI & Data",
+        "track": "Verantwoord gebruik AI en data",
+        "date": "2025-06-10"
+      },
+      "themes": [
+        "Privacy, Ethiek & Verantwoorde AI",
+        "AI Adoptie & Tools"
+      ],
+      "full_text": "Relevant voor beleidsmedewerkers, docenten, informatiemanagers, ICT-coördinatoren, bestuurders en juristen. Bevat infographic en PDF. Vervangt en verdiept eerdere referentiekaders op het gebied van learning analytics.",
+      "external_source": "npuls.nl/kennisbank/referentiekader-2-0-verantwoord-gebruik-van-studiedata-en-ai",
+      "product_type": "Kennisproduct (handreiking + infographic, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools.",
+        "core_idea": "Handreiking met richtlijnen voor het ethisch en verantwoord inzetten van studiedata en AI in het vervolgonderwijs.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Privacy, Ethiek & Verantwoorde AI.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Referentiekader 2.0: Verantwoord gebruik van studiedata en AI\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-005",
+      "title": "EduGenAI – platform voor generatieve AI in het onderwijs",
+      "summary": "Nederlands sectorbreed platform waarmee onderwijsinstellingen veilig en verantwoord kunnen experimenteren met generatieve AI. Biedt gedeelde infrastructuur, ondersteuning en governance voor GenAI-toepassingen.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "EduGenAI: van pilot naar een veilige en verantwoorde dienst",
+        "speaker": "Bas Smit, Projectleider Generatieve AI bij Npuls",
+        "track": "Voorzieningen AI en data",
+        "date": "2026-05-18"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Platform & Infrastructuur"
+      ],
+      "full_text": "EduGenAI is de gedeelde AI-infrastructuur voor alle mbo, hbo en wo instellingen. Webinar op 18 mei 2026: 'Van pilot naar een veilige en verantwoorde dienst'. Naast EduGenAI werkt Npuls ook aan CEDA (Central Education Data Analytics).",
+      "external_source": "npuls.nl/edugenai",
+      "product_type": "Platform / Digitale sectorvoorziening",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools.",
+        "core_idea": "Nederlands sectorbreed platform waarmee onderwijsinstellingen veilig en verantwoord kunnen experimenteren met generatieve AI.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"EduGenAI – platform voor generatieve AI in het onderwijs\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-010",
+      "title": "Learning Analytics Magazine – docenten en data",
+      "summary": "Praktijkgericht magazine over Teacher-Facing Learning Analytics (TFLA): hoe docenten data kunnen inzetten om studenten beter te begeleiden. Best en worst practices, concrete voorbeelden.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Npuls Magazine #3 – Learning Analytics: docenten vooruit helpen",
+        "speaker": "Npuls redactie",
+        "track": "AI en data",
+        "date": "2025-03-01"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Betrokkenheid & Mensgerichtheid"
+      ],
+      "full_text": "Eerste editie Learning Analytics magazine. Deelt inzichten over hoe learning analytics optimaal benut kunnen worden door docenten. Aandacht voor praktijkimplementatie en ethische vraagstukken rondom studiedata.",
+      "external_source": "community-data-ai.npuls.nl",
+      "product_type": "Kennisproduct (magazine)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: AI Adoptie & Tools.",
+        "core_idea": "Praktijkgericht magazine over Teacher-Facing Learning Analytics (TFLA): hoe docenten data kunnen inzetten om studenten beter te begeleiden.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Learning Analytics Magazine – docenten en data\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-014",
+      "title": "ImpactScan – digitale open leermaterialen",
+      "summary": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL). Zes aandachtspunten, vijf ontwikkelfasen. Helpt cyclisch verbeteren en evidence-informed werken.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "ImpactScan – begeleidingsinstrument voor digitale open leermaterialen",
+        "speaker": "Npuls team Onderwijsmiddelen",
+        "track": "Digitale leermaterialen",
+        "date": "2025-06-11"
+      },
+      "themes": [
+        "Onderwijsinnovatie & Didactiek",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Aandachtspunten: Visie & Beleid, Cultuur, Kwaliteit, Proces, Technologie en Samenwerking. Onderdeel van regeling OpenUp (24 instellingen). Aanvullend aan de Gereedheidsscan.",
+      "external_source": "npuls.nl/kennisbank/impactscan/",
+      "product_type": "Kennisproduct (scan/instrument)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL).",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Onderwijsinnovatie & Didactiek.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"ImpactScan – digitale open leermaterialen\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-016",
+      "title": "Event 'Leren zonder drempels' – workshops flexibel onderwijs",
+      "summary": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden. Praktische handvatten voor implementatie in de eigen instelling.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Leren zonder drempels: Aan de slag!",
+        "speaker": "Npuls experts flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2026-01-20"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Workshopkeuze voor deelnemers. Thema's: microcredentials, digitale identiteit (eduwallet), standaarden voor leren zonder drempels. Event in januari 2026, inmiddels gehouden – materialen beschikbaar.",
+      "external_source": "npuls.nl/agenda/leren-zonder-drempels-event",
+      "product_type": "Evenement (workshop)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een ICT- / Onderwijskundig Adviseur: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Event 'Leren zonder drempels' – workshops flexibel onderwijs\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    }
+  ],
+  "themeMatrix": [
+    {
+      "theme": "AI Adoptie & Tools",
+      "now": 6,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Toekomst van Werk & Vaardigheden",
+      "now": 1,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Onderwijsinnovatie & Didactiek",
+      "now": 5,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Organisatieverandering & Leiderschap",
+      "now": 1,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Betrokkenheid & Mensgerichtheid",
+      "now": 1,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Platform & Infrastructuur",
+      "now": 1,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Privacy, Ethiek & Verantwoorde AI",
+      "now": 2,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Samenwerking & Kennisdeling",
+      "now": 0,
+      "near": 0,
+      "long": 0
+    }
+  ],
+  "topTeamQuestions": [
+    "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+    "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?",
+    "Hoe zorgen wij als ICT- / Onderwijskundig Adviseur dat we dit inzicht concreet vertalen naar ons werk?"
+  ]
+}

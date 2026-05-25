@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "npuls-compass",
+      "runtimeExecutable": "/opt/homebrew/opt/npm/bin/node",
+      "runtimeArgs": ["/opt/homebrew/Cellar/node/25.2.1/libexec/bin/npm", "run", "dev"],
+      "port": 3000
+    }
+  ]
+}

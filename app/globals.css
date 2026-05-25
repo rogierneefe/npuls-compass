@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --npuls-orange: #E87722;
+  --npuls-orange-light: #FFF3E8;
+  --npuls-bg: #FFFAF5;
+}
+
+body {
+  background-color: var(--npuls-bg);
+  color: #1a1a1a;
+}
+
+@media print {
+  nav, .no-print { display: none !important; }
+  section { page-break-before: always; }
+  body { color: #000; background: #fff; }
+}

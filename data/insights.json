@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "bron": "npuls.nl",
+    "gescand": "mei 2026",
+    "beschrijving": "Index van kennisproducten, evenementen en leergangen van Npuls voor gebruik in de Conferentie Compass tool. Rollen: SXSW EDU variant (8 onderwijsrollen).",
+    "themas": [
+      "AI Adoptie & Tools",
+      "Toekomst van Werk & Vaardigheden",
+      "Onderwijsinnovatie & Didactiek",
+      "Organisatieverandering & Leiderschap",
+      "Betrokkenheid & Mensgerichtheid",
+      "Platform & Infrastructuur",
+      "Privacy, Ethiek & Verantwoorde AI",
+      "Samenwerking & Kennisdeling"
+    ]
+  },
+  "insights": [
+
+    {
+      "id": "npuls-001",
+      "title": "AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs",
+      "summary": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers. Biedt een gedeeld vocabulaire en aanpak voor mbo, hbo en wo.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "AI-GO! Een raamwerk voor AI-geletterdheid in het onderwijs",
+        "speaker": "Npuls team AI & Data",
+        "track": "AI- en datageletterdheid",
+        "date": "2025-07-14"
+      },
+      "themes": ["AI Adoptie & Tools", "Onderwijsinnovatie & Didactiek"],
+      "full_text": "Het raamwerk biedt structuur voor instellingen om AI-geletterdheid te verankeren in curriculum, beleid en docentprofessionalisering. Het onderscheidt technische vaardigheden, kritisch denken en ethisch bewustzijn als kerndimensies.",
+      "external_source": "npuls.nl/kennisbank/ai-go-een-raamwerk-voor-ai-geletterdheid-in-het-onderwijs",
+      "product_type": "Kennisproduct (visiedocument + tool)"
+    },
+
+    {
+      "id": "npuls-002",
+      "title": "Visie op toetsing, examinering en AI (+ 4 handreikingen)",
+      "summary": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Visie op toetsing en examinering: Naar een AI-bewuste toetspraktijk",
+        "speaker": "K. Beekman (Fontys), S. Draaijer (VU), J. Beckers (Fontys)",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2025-05-27"
+      },
+      "themes": ["AI Adoptie & Tools", "Privacy, Ethiek & Verantwoorde AI", "Onderwijsinnovatie & Didactiek"],
+      "full_text": "Vier downloadbare handreikingen: (1) Toetsing in het AI-tijdperk, (2) AI-integratie op programmaniveau/curriculumontwerp, (3) Ontwerpen van AI-gedreven toetstaken, (4) Aanpakken voor examencommissies. Focus op authenticiteit, validiteit, eerlijkheid en diplomawaarde.",
+      "external_source": "npuls.nl/kennisbank/visie-op-toetsing-examinering-en-ai-handreikingen",
+      "product_type": "Kennisproduct (visie + 4 handreikingen, PDF)"
+    },
+
+    {
+      "id": "npuls-003",
+      "title": "Referentiekader 2.0: Verantwoord gebruik van studiedata en AI",
+      "summary": "Handreiking met richtlijnen voor het ethisch en verantwoord inzetten van studiedata en AI in het vervolgonderwijs. Centraal staan publieke waarden als rechtvaardigheid, menselijkheid en autonomie.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Referentiekader 2.0: Verantwoord gebruik van studiedata en AI",
+        "speaker": "Npuls team AI & Data",
+        "track": "Verantwoord gebruik AI en data",
+        "date": "2025-06-10"
+      },
+      "themes": ["Privacy, Ethiek & Verantwoorde AI", "AI Adoptie & Tools"],
+      "full_text": "Relevant voor beleidsmedewerkers, docenten, informatiemanagers, ICT-coördinatoren, bestuurders en juristen. Bevat infographic en PDF. Vervangt en verdiept eerdere referentiekaders op het gebied van learning analytics.",
+      "external_source": "npuls.nl/kennisbank/referentiekader-2-0-verantwoord-gebruik-van-studiedata-en-ai",
+      "product_type": "Kennisproduct (handreiking + infographic, PDF)"
+    },
+
+    {
+      "id": "npuls-004",
+      "title": "AI en kansengelijkheid – visie en handreiking",
+      "summary": "Visiestuk over de impact van AI op gelijke kansen in het onderwijs, met praktische handvatten voor ethische en zorgvuldige toepassing. Richt zich op inclusief onderwijs en het voorkomen van AI-bias.",
+      "type": "risk",
+      "horizon": "near",
+      "source": {
+        "session_title": "AI en kansengelijkheid",
+        "speaker": "Npuls team AI & Data",
+        "track": "Verantwoord gebruik AI en data",
+        "date": "2024-12-01"
+      },
+      "themes": ["Privacy, Ethiek & Verantwoorde AI", "Betrokkenheid & Mensgerichtheid"],
+      "full_text": "Relevant voor beleidsmedewerkers, onderwijsondersteuners en docenten in mbo, hbo en wo. Behandelt risico's van AI-bias en biedt richtlijnen voor inclusieve inzet van AI. Onderdeel van de bredere Npuls AI-strategie.",
+      "external_source": "npuls.nl/kennisbank/ai-en-kansengelijkheid",
+      "product_type": "Kennisproduct (visiedocument, PDF)"
+    },
+
+    {
+      "id": "npuls-005",
+      "title": "EduGenAI – platform voor generatieve AI in het onderwijs",
+      "summary": "Nederlands sectorbreed platform waarmee onderwijsinstellingen veilig en verantwoord kunnen experimenteren met generatieve AI. Biedt gedeelde infrastructuur, ondersteuning en governance voor GenAI-toepassingen.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "EduGenAI: van pilot naar een veilige en verantwoorde dienst",
+        "speaker": "Bas Smit, Projectleider Generatieve AI bij Npuls",
+        "track": "Voorzieningen AI en data",
+        "date": "2026-05-18"
+      },
+      "themes": ["AI Adoptie & Tools", "Platform & Infrastructuur"],
+      "full_text": "EduGenAI is de gedeelde AI-infrastructuur voor alle mbo, hbo en wo instellingen. Webinar op 18 mei 2026: 'Van pilot naar een veilige en verantwoorde dienst'. Naast EduGenAI werkt Npuls ook aan CEDA (Central Education Data Analytics).",
+      "external_source": "npuls.nl/edugenai",
+      "product_type": "Platform / Digitale sectorvoorziening"
+    },
+
+    {
+      "id": "npuls-006",
+      "title": "Toekomstbeeld: De leeromgeving van 2032 – XR in het onderwijs",
+      "summary": "Visiedocument over de leeromgeving van 2032: hybride, XR-verrijkt en gepersonaliseerd. Schetst randvoorwaarden en een stappenplan naar doelgericht gebruik van Extended Reality (VR/AR/MR) in het onderwijs.",
+      "type": "trend",
+      "horizon": "long",
+      "source": {
+        "session_title": "Toekomstbeeld – De leeromgeving van 2032: flexibel, verbonden en verrijkt met XR",
+        "speaker": "Npuls kennishub leren & innoveren",
+        "track": "XR in het onderwijs",
+        "date": "2026-01-01"
+      },
+      "themes": ["Onderwijsinnovatie & Didactiek", "Platform & Infrastructuur"],
+      "full_text": "Relevant voor innovatiecoördinatoren, beleidsmedewerkers, docenten, bestuurders, ICT-/informatiemanagers, CTL-medewerkers en EdTech-partners. Aanvullend XR-Framework beschikbaar als implementatiegids.",
+      "external_source": "npuls.nl/kennisbank/een-inspirerend-toekomstbeeld-de-leeromgeving-van-2032",
+      "product_type": "Kennisproduct (visiedocument, PDF)"
+    },
+
+    {
+      "id": "npuls-007",
+      "title": "XR-Framework voor onderwijsinstellingen",
+      "summary": "Praktisch raamwerk dat instellingen helpt bij de effectieve implementatie van Extended Reality (XR) in het onderwijs. Dekt content & didactiek, verantwoord gebruik, infrastructuur en deskundigheidsbevordering.",
+      "type": "tool",
+      "horizon": "near",
+      "source": {
+        "session_title": "XR Framework – implementatie in het vervolgonderwijs",
+        "speaker": "Npuls kennishub leren & innoveren",
+        "track": "XR in het onderwijs",
+        "date": "2025-09-01"
+      },
+      "themes": ["Onderwijsinnovatie & Didactiek", "Platform & Infrastructuur"],
+      "full_text": "Gepresenteerd tijdens MBO Digitaal conferentie (3 oktober 2025). Workshop verbindt XR-framework met SURF TechTrendReport 2026 en biedt thematafels voor uitwisseling. Aangevuld met het kaartspel 'Polder Perspectives XR' voor het verkennen van ethische vraagstukken.",
+      "external_source": "npuls.nl/en/xr/",
+      "product_type": "Kennisproduct (framework + kaartspel)"
+    },
+
+    {
+      "id": "npuls-008",
+      "title": "Microcredentials – leergang en implementatiegids",
+      "summary": "Npuls stimuleert microcredentialing in mbo, hbo en wo via pilots, een magazine en implementatieondersteuning. Microcredentials geven zelfstandige waarde aan kleinere leereenenheden en bevorderen leven lang leren.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Microcredentials: van pilot naar sector-implementatie",
+        "speaker": "Npuls team Flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2024-09-13"
+      },
+      "themes": ["Toekomst van Werk & Vaardigheden", "Organisatieverandering & Leiderschap"],
+      "full_text": "Magazine 'Leven lang leren met microcredentials' (48 pagina's). Pilots in hbo en wo sinds 2021, mbo-pilots gestart 2024. Onderdeel van Flexibel leren-transformatiehub. Koppeling met eduwallet voor digitale certificering.",
+      "external_source": "npuls.nl/en/microcredentials/",
+      "product_type": "Kennisproduct (magazine + implementatiegids)"
+    },
+
+    {
+      "id": "npuls-009",
+      "title": "Eduwallet en digitale identiteit (eduID) – proeftuin",
+      "summary": "De eduwallet geeft lerenden regie over hun eigen leerbewijzen en digitale identiteit via eduID. De eerste proeftuin-versie is live. Biedt een digitale portemonnee voor microcredentials en andere certificaten.",
+      "type": "tool",
+      "horizon": "near",
+      "source": {
+        "session_title": "Eduwallet-proeftuin demonstratie – MBO Digitaal conferentie",
+        "speaker": "Npuls team Digitale sectorvoorzieningen",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2025-10-03"
+      },
+      "themes": ["Platform & Infrastructuur", "Toekomst van Werk & Vaardigheden"],
+      "full_text": "Gepresenteerd op MBO Digitaal conferentie (3 oktober 2025). De wallet combineert eduID (digitale identiteit) met digitale bewijzen (microcredentials, diploma's). Onderdeel van de bredere digitale sectorvoorzieningen (OOAPI, digitale leermaterialen, eduID).",
+      "external_source": "npuls.nl/digitale-sectorvoorzieningen",
+      "product_type": "Digitale sectorvoorziening (pilot)"
+    },
+
+    {
+      "id": "npuls-010",
+      "title": "Learning Analytics Magazine – docenten en data",
+      "summary": "Praktijkgericht magazine over Teacher-Facing Learning Analytics (TFLA): hoe docenten data kunnen inzetten om studenten beter te begeleiden. Best en worst practices, concrete voorbeelden.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Npuls Magazine #3 – Learning Analytics: docenten vooruit helpen",
+        "speaker": "Npuls redactie",
+        "track": "AI en data",
+        "date": "2025-03-01"
+      },
+      "themes": ["AI Adoptie & Tools", "Betrokkenheid & Mensgerichtheid"],
+      "full_text": "Eerste editie Learning Analytics magazine. Deelt inzichten over hoe learning analytics optimaal benut kunnen worden door docenten. Aandacht voor praktijkimplementatie en ethische vraagstukken rondom studiedata.",
+      "external_source": "community-data-ai.npuls.nl",
+      "product_type": "Kennisproduct (magazine)"
+    },
+
+    {
+      "id": "npuls-011",
+      "title": "Competentieprofiel voor netwerk docentondersteuning",
+      "summary": "Landelijk competentieprofiel voor docentondersteuners in mbo, hbo en wo. Beschrijft vijf competentiegebieden (van coach tot innovator) en biedt instellingen een gedeeld kader voor professionalisering.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "Competentieprofiel voor netwerk docentondersteuning in het vervolgonderwijs",
+        "speaker": "Npuls team Centers for Teaching & Learning",
+        "track": "Docentondersteuning & professionalisering",
+        "date": "2025-09-24"
+      },
+      "themes": ["Toekomst van Werk & Vaardigheden", "Organisatieverandering & Leiderschap"],
+      "full_text": "Relevant voor docentondersteuners zelf, leidinggevenden, HR en beleidsadviseurs. Biedt structuur voor selectie, begeleiding en strategische positionering. Gepresenteerd op MBO Digitaal conferentie (3 oktober 2025). Onderdeel van de CTL-aanpak van Npuls.",
+      "external_source": "npuls.nl/kennisbank/competentieprofiel-docentondersteuning",
+      "product_type": "Kennisproduct (profiel, PDF)"
+    },
+
+    {
+      "id": "npuls-012",
+      "title": "Centers for Teaching & Learning (CTL) – opzet en ondersteuning",
+      "summary": "Alle Nederlandse instellingen (mbo, hbo, wo) richten een CTL in als professionele ondersteuningsstructuur voor docenten. Npuls ondersteunt met subsidie, webinars en bijeenkomsten. Doel: 100% CTL-dekking in 2030.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "CTL-subsidieregeling – toekenning 2025",
+        "speaker": "Npuls programmadirectie",
+        "track": "Centers for Teaching & Learning",
+        "date": "2025-04-03"
+      },
+      "themes": ["Organisatieverandering & Leiderschap", "Betrokkenheid & Mensgerichtheid"],
+      "full_text": "14 instellingen ontvingen in april 2025 CTL-subsidie. Ondersteuning via webinars, bijeenkomsten en het competentieprofiel voor docentondersteuning. Onderdeel van de belofte 'Doorlopend het beste onderwijs'.",
+      "external_source": "npuls.nl/onderwerpen/ctl",
+      "product_type": "Regeling + ondersteuningsprogramma"
+    },
+
+    {
+      "id": "npuls-013",
+      "title": "Overzicht van kennisnetwerken – interactieve tool",
+      "summary": "Interactief overzicht van bestaande kennisnetwerken binnen mbo, hbo en wo. Filterbaar op thema, instelling en sector. Helpt onderwijsprofessionals samenwerking en kennisdeling te organiseren.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "Overzicht van kennisnetwerken: samenwerken aan onderwijsinnovatie",
+        "speaker": "Npuls team Samenwerking",
+        "track": "Samenwerking & Kennisdeling",
+        "date": "2025-08-19"
+      },
+      "themes": ["Samenwerking & Kennisdeling", "Organisatieverandering & Leiderschap"],
+      "full_text": "Beschikbaar op kennisnetwerken.npuls.nl. Dynamisch overzicht dat gebruikers kunnen aanvullen en verbeteren. Voor docenten, onderwijsondersteuners, beleidsmakers, onderzoekers en netwerkcoördinatoren.",
+      "external_source": "kennisnetwerken.npuls.nl",
+      "product_type": "Kennisproduct (interactieve tool)"
+    },
+
+    {
+      "id": "npuls-014",
+      "title": "ImpactScan – digitale open leermaterialen",
+      "summary": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL). Zes aandachtspunten, vijf ontwikkelfasen. Helpt cyclisch verbeteren en evidence-informed werken.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "ImpactScan – begeleidingsinstrument voor digitale open leermaterialen",
+        "speaker": "Npuls team Onderwijsmiddelen",
+        "track": "Digitale leermaterialen",
+        "date": "2025-06-11"
+      },
+      "themes": ["Onderwijsinnovatie & Didactiek", "Organisatieverandering & Leiderschap"],
+      "full_text": "Aandachtspunten: Visie & Beleid, Cultuur, Kwaliteit, Proces, Technologie en Samenwerking. Onderdeel van regeling OpenUp (24 instellingen). Aanvullend aan de Gereedheidsscan.",
+      "external_source": "npuls.nl/kennisbank/impactscan/",
+      "product_type": "Kennisproduct (scan/instrument)"
+    },
+
+    {
+      "id": "npuls-015",
+      "title": "Thematisch onderzoek 2026 – drie onderzoekslijnen",
+      "summary": "Npuls lanceert drie thematische onderzoeken voor 2026 waarbij onderzoekers uit mbo, hbo en wo samenwerken: (1) Innovaties van experiment naar verankerde praktijk, (2) Validiteit van toetsing in het AI-tijdperk, (3) De veranderende rol van onderwijsprofessionals.",
+      "type": "trend",
+      "horizon": "near",
+      "source": {
+        "session_title": "Thematisch onderzoek 2026: aanmelding van belangstelling",
+        "speaker": "Npuls onderzoeksteam",
+        "track": "Praktijkgericht onderzoek",
+        "date": "2026-01-01"
+      },
+      "themes": ["Toekomst van Werk & Vaardigheden", "Onderwijsinnovatie & Didactiek", "Samenwerking & Kennisdeling"],
+      "full_text": "Thema 3 richt zich specifiek op hoe de rol van de docent verandert door technologische ontwikkelingen. Instellingen die extern publiceren zijn verplicht Npuls te vermelden. Contact: onderzoek@npuls.nl.",
+      "external_source": "npuls.nl/nieuws/thematisch-onderzoek-2026",
+      "product_type": "Onderzoeksprogramma"
+    },
+
+    {
+      "id": "npuls-016",
+      "title": "Event 'Leren zonder drempels' – workshops flexibel onderwijs",
+      "summary": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden. Praktische handvatten voor implementatie in de eigen instelling.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Leren zonder drempels: Aan de slag!",
+        "speaker": "Npuls experts flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2026-01-20"
+      },
+      "themes": ["Toekomst van Werk & Vaardigheden", "Onderwijsinnovatie & Didactiek"],
+      "full_text": "Workshopkeuze voor deelnemers. Thema's: microcredentials, digitale identiteit (eduwallet), standaarden voor leren zonder drempels. Event in januari 2026, inmiddels gehouden – materialen beschikbaar.",
+      "external_source": "npuls.nl/agenda/leren-zonder-drempels-event",
+      "product_type": "Evenement (workshop)"
+    },
+
+    {
+      "id": "npuls-017",
+      "title": "EdTech Community Event 'De kunst van samen'",
+      "summary": "Community-event (20 november 2025) voor onderwijsinstellingen en EdTech-bedrijven over co-creatie, nieuwe inkoopvormen en partnerschappen. Focus op samenwerking als canvas voor toekomstbestendig onderwijs.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "De kunst van samen – EdTech Community Event",
+        "speaker": "Npuls EdTech-team",
+        "track": "EdTech & Samenwerking",
+        "date": "2025-11-20"
+      },
+      "themes": ["Samenwerking & Kennisdeling", "Organisatieverandering & Leiderschap"],
+      "full_text": "Gehouden op 20 november 2025 in Kanaal30, Utrecht. Onderwerpen: co-creatie, nieuwe inkoopmodellen, EdTech-partnerships. Verslagen en materialen beschikbaar. Onderdeel van de bredere EdTech-community van Npuls.",
+      "external_source": "npuls.nl/agenda/edtech-community-event",
+      "product_type": "Evenement (community)"
+    },
+
+    {
+      "id": "npuls-018",
+      "title": "Professionalisering digitale competenties – pilot monitoring",
+      "summary": "Acht instellingen onderzoeken van oktober 2025 tot februari 2026 hoe digitale competenties van docenten gemonitord kunnen worden. Pilot als basis voor sectorbrede aanpak van digitale professionalisering.",
+      "type": "trend",
+      "horizon": "near",
+      "source": {
+        "session_title": "Professionalisering en ondersteuning – pilot digitale competenties",
+        "speaker": "Npuls team Professionalisering",
+        "track": "Docentondersteuning & professionalisering",
+        "date": "2025-10-01"
+      },
+      "themes": ["Toekomst van Werk & Vaardigheden", "Betrokkenheid & Mensgerichtheid"],
+      "full_text": "8 instellingen betrokken in pilot (okt 2025 – feb 2026). Doel: passende aanpak voor monitoren van digitale competenties in mbo, hbo en wo. Resultaten worden breed gedeeld.",
+      "external_source": "npuls.nl/onderwerpen/professionalisering",
+      "product_type": "Pilot / onderzoek"
+    },
+
+    {
+      "id": "npuls-019",
+      "title": "Webinar: De AI-waaier – van geen AI naar co-creatie",
+      "summary": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten. Praktische handvatten voor elke fase van de adoptiecurve.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "De AI-waaier – van geen AI naar co-creatie",
+        "speaker": "Npuls team Digitaal toetsen",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2026-05-21"
+      },
+      "themes": ["AI Adoptie & Tools", "Onderwijsinnovatie & Didactiek"],
+      "full_text": "Online webinar, 21 mei 2026, 15:00-16:00. Koppeling aan digitaal toetsen en ontwikkelen. Onderdeel van de reeks Npuls-webinars over verantwoord AI-gebruik.",
+      "external_source": "npuls.nl/agenda/webinar-de-ai-waaier-van-geen-ai-naar-co-creatie",
+      "product_type": "Evenement (webinar)"
+    },
+
+    {
+      "id": "npuls-020",
+      "title": "Webinar: Digitale, AI- en datageletterdheid in het hbo",
+      "summary": "Webinar (21 mei 2026) specifiek gericht op het hbo: hoe verander je AI- en datageletterdheid van een abstracte ambitie naar concrete inbedding in onderwijs en organisatie?",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Digitale, AI- en datageletterdheid in het hbo",
+        "speaker": "Npuls team AI- en datageletterdheid",
+        "track": "AI- en datageletterdheid",
+        "date": "2026-05-21"
+      },
+      "themes": ["AI Adoptie & Tools", "Organisatieverandering & Leiderschap"],
+      "full_text": "Online webinar, 21 mei 2026, 16:00-17:00. Gericht op hbo-professionals. Onderdeel van een reeks webinars rondom AI-geletterdheid.",
+      "external_source": "npuls.nl/agenda/digitale-ai-en-data-geletterdheid-in-het-hbo",
+      "product_type": "Evenement (webinar)"
+    },
+
+    {
+      "id": "npuls-021",
+      "title": "Conferentie Content Advies Raad (CAR) – leermaterialen",
+      "summary": "Jaarlijkse conferentie (editie 3: 15 mei 2025) over kwalitatieve, betaalbare en impactvolle digitale leermaterialen. Thema's: erkennen en waarderen van docenten, contentbeheer, data-inzichten voor contentkeuzes.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Conferentie 'Samen werken aan kwalitatieve, betaalbare en impactvolle leermaterialen'",
+        "speaker": "Content Advies Raad (CAR) / Npuls",
+        "track": "Digitale leermaterialen",
+        "date": "2025-05-15"
+      },
+      "themes": ["Samenwerking & Kennisdeling", "Onderwijsinnovatie & Didactiek"],
+      "full_text": "3e editie CAR-conferentie. Input voor oprichtingsmodel Content Advies Raad. Volgende bijeenkomst: 6 oktober 2026 bij SURF-kantoor Utrecht. De CAR bevordert co-creatie en hergebruik van open digitale leermaterialen.",
+      "external_source": "npuls.nl/agenda/conferentie-samen-werken-aan-kwalitatieve-betaalbare-en-impactvolle-leermaterialen-3/",
+      "product_type": "Evenement (conferentie)"
+    },
+
+    {
+      "id": "npuls-022",
+      "title": "OpenUp-regeling – 24 instellingen aan de slag met open leermaterialen",
+      "summary": "24 instellingen (8 mbo, 10 hbo, 6 wo) ontvingen ondersteuning via de OpenUp-regeling om digitale en open leermaterialen te ontwikkelen, delen en hergebruiken. Resultaten en good practices worden breed gedeeld.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "OpenUp – open leermaterialen in de praktijk",
+        "speaker": "Npuls team Onderwijsmiddelen",
+        "track": "Digitale leermaterialen",
+        "date": "2024-09-10"
+      },
+      "themes": ["Samenwerking & Kennisdeling", "Onderwijsinnovatie & Didactiek"],
+      "full_text": "De regeling stimuleert regie op ontwikkeling, hergebruik en inkoop van open leermaterialen. Praktijkverhalen en good practices beschikbaar via de kennisbank. Aanvullende toolkit: ImpactScan.",
+      "external_source": "npuls.nl/actueel/24-instellingen-pakken-de-regie-over-digitale-en-open-leermaterialen/",
+      "product_type": "Regeling + praktijkprogramma"
+    },
+
+    {
+      "id": "npuls-023",
+      "title": "Npuls Krant november 2024 – jaaroverzicht",
+      "summary": "28-pagina's tellend jaaroverzicht van Npuls-activiteiten, mijlpalen en plannen. Dekt open leermaterialen, CTL's, EduGenAI, microcredentials, learning analytics en meer. Goed instappunt voor nieuwe stakeholders.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Npuls Krant #1 – november 2024",
+        "speaker": "Npuls redactie",
+        "track": "Alle thema's",
+        "date": "2024-11-11"
+      },
+      "themes": ["Samenwerking & Kennisdeling", "Organisatieverandering & Leiderschap"],
+      "full_text": "Gepubliceerd op 11 november 2024. Artikelen, interviews en achtergrondverhalen. Behandelde thema's: open leermaterialen, samenwerking, CTL's, EduGenAI, microcredentials. Downloadbaar als PDF.",
+      "external_source": "npuls.nl/kennisbank/npuls-krant-november-2024/",
+      "product_type": "Kennisproduct (magazine/krant)"
+    },
+
+    {
+      "id": "npuls-024",
+      "title": "Provocation: De veranderende rol van de docent – bezinning nodig",
+      "summary": "Npuls stelt de vraag: hoe verandert de identiteit en het vak van docent door AI en digitalisering? Thematisch onderzoek 2026 verkent wat dit vraagt van opleidingen, CTL's en hr-beleid.",
+      "type": "provocation",
+      "horizon": "near",
+      "source": {
+        "session_title": "Thematisch onderzoek: Bezinning op de rol van onderwijsprofessionals",
+        "speaker": "Npuls onderzoeksteam",
+        "track": "Docentondersteuning & professionalisering",
+        "date": "2026-01-01"
+      },
+      "themes": ["Betrokkenheid & Mensgerichtheid", "Toekomst van Werk & Vaardigheden"],
+      "full_text": "Kernvraag: wat betekent het vak van docent nog als AI veel taken overneemt? Raakt aan docentidentiteit, erkenning en waardering, én aan het ontwerp van professionele leergemeenschappen. Verbonden aan de CTL-aanpak.",
+      "external_source": "npuls.nl/nieuws/thematisch-onderzoek-2026",
+      "product_type": "Onderzoeksagenda / provocation"
+    },
+
+    {
+      "id": "npuls-025",
+      "title": "AI Act – introductie en implicaties voor het onderwijs",
+      "summary": "Publicatie die de EU AI Act introduceert voor onderwijsprofessionals: welke verplichtingen gelden er, welke systemen vallen onder welke risicocategorie, en wat moet een instelling nu al regelen?",
+      "type": "risk",
+      "horizon": "now",
+      "source": {
+        "session_title": "AI Act – introductie en uitleg voor het vervolgonderwijs",
+        "speaker": "Npuls team Verantwoord gebruik AI",
+        "track": "Privacy, Ethiek & Verantwoorde AI",
+        "date": "2024-11-01"
+      },
+      "themes": ["Privacy, Ethiek & Verantwoorde AI", "Organisatieverandering & Leiderschap"],
+      "full_text": "De AI Act trad deels in werking in 2025, overige bepalingen volgen later. Npuls deelde een handreiking over de verordening (Kuijvenhoven & Baten, 2025). Relevant voor bestuurders, juristen, informatiemanagers en beleidsmedewerkers.",
+      "external_source": "npuls.nl/kennisbank/",
+      "product_type": "Kennisproduct (publicatie/handreiking)"
+    }
+
+  ]
+}

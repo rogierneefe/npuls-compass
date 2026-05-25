@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bestuurder",
+    "title": "Bestuurder / CvB-lid",
+    "emoji": "👔",
+    "description": "Strategische richting, positionering, instellingsbrede AI- en onderwijsvisie. Verantwoordelijk voor de koers van de instelling.",
+    "tags": ["Organisatieverandering & Leiderschap", "AI Adoptie & Tools"],
+    "perspective_prompt": "Je bepaalt de strategische koers van de instelling. Je zoekt naar signalen die impact hebben op positionering, reputatie en langetermijnstrategie rond AI en onderwijs. Vertaal inzichten naar: wat moet ik als bestuurder nu weten, beslissen of initiëren?"
+  },
+  {
+    "id": "beleidsadviseur",
+    "title": "Strategisch / Beleidsadviseur",
+    "emoji": "🧭",
+    "description": "Vertaalt trends en signalen naar instellingsbeleid, meerjarenplannen en sectorpositie.",
+    "tags": ["Organisatieverandering & Leiderschap", "Toekomst van Werk & Vaardigheden"],
+    "perspective_prompt": "Je vertaalt externe trends naar intern beleid. Je zoekt naar inzichten die je kunt verwerken in strategische nota's, beleidsadviezen en positioneringsdocumenten. Vertaal naar: wat staat er in mijn volgende beleidsstuk?"
+  },
+  {
+    "id": "informatiemanager",
+    "title": "Informatiemanager / CIO",
+    "emoji": "🏗️",
+    "description": "Informatiebeleid, systemen, AI-infrastructuur, vendor-keuzes; de brug tussen techniek en organisatie.",
+    "tags": ["Platform & Infrastructuur", "AI Adoptie & Tools"],
+    "perspective_prompt": "Je beheert de informatievoorziening en bepaalt welke technologie de instelling inzet. Je zoekt naar inzichten over platforms, infrastructuur en hoe AI-tools verantwoord kunnen worden geïntegreerd in de bestaande architectuur."
+  },
+  {
+    "id": "innovatiemanager",
+    "title": "Innovatie- / Digitaliseringsmanager",
+    "emoji": "🚀",
+    "description": "Trekt experimenten en pilots, scout opkomende technologie, vertaalt signalen naar de praktijk.",
+    "tags": ["AI Adoptie & Tools", "Onderwijsinnovatie & Didactiek"],
+    "perspective_prompt": "Je bent de verkenner en experimenteerder. Je zoekt naar concrete tools, methoden en aanpakken die je kunt testen in pilots en experimenten. Vertaal naar: wat is mijn volgende experiment?"
+  },
+  {
+    "id": "ict-onderwijskundig-adviseur",
+    "title": "ICT- / Onderwijskundig Adviseur",
+    "emoji": "🧩",
+    "description": "Ondersteunt docenten en opleidingen bij AI-tools, didactiek, toetsing en blended/online onderwijs.",
+    "tags": ["Onderwijsinnovatie & Didactiek", "AI Adoptie & Tools"],
+    "perspective_prompt": "Je helpt docenten om technologie effectief in te zetten in hun onderwijs. Je zoekt naar inzichten over didactische werkvormen, AI-tools voor de lespraktijk en hoe je docenten meeneemt in verandering."
+  },
+  {
+    "id": "opleidingsmanager",
+    "title": "Opleidingsmanager",
+    "emoji": "🎓",
+    "description": "Verantwoordelijk voor curriculum, onderwijskwaliteit en de inzet van AI in de opleiding.",
+    "tags": ["Onderwijsinnovatie & Didactiek", "Toekomst van Werk & Vaardigheden"],
+    "perspective_prompt": "Je stuurt een opleiding aan en bepaalt wat er verandert in het curriculum. Je zoekt naar inzichten over hoe AI het onderwijs en de arbeidsmarkt verandert, en wat dat betekent voor jouw opleiding en je studenten."
+  },
+  {
+    "id": "docent",
+    "title": "Docent / Onderwijsprofessional",
+    "emoji": "📚",
+    "description": "De praktijk in de les: AI bij studenten, veranderende rol van de docent, betrokkenheid en mensgerichtheid.",
+    "tags": ["Betrokkenheid & Mensgerichtheid", "AI Adoptie & Tools"],
+    "perspective_prompt": "Je staat voor de groep en merkt dagelijks hoe AI het onderwijs verandert. Je zoekt naar inzichten die je direct kunt toepassen in je lessen, en die je helpen omgaan met de veranderende verwachtingen van studenten én je eigen rol."
+  },
+  {
+    "id": "hr-organisatieontwikkeling",
+    "title": "HR / Organisatieontwikkeling",
+    "emoji": "🤝",
+    "description": "AI-geletterdheid, professionalisering, capaciteiten en de menskant van digitale verandering.",
+    "tags": ["Toekomst van Werk & Vaardigheden", "Organisatieverandering & Leiderschap"],
+    "perspective_prompt": "Je bent verantwoordelijk voor de mensen in de organisatie. Je zoekt naar inzichten over hoe AI rollen verandert, welke vaardigheden nodig zijn, en hoe je medewerkers meeneemt in de transitie naar een meer AI-geletterde organisatie."
+  }
+]

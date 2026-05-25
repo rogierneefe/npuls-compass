@@ -1,0 +1,532 @@
+{
+  "roleId": "opleidingsmanager",
+  "generatedAt": "2026-05-25T09:46:41.093Z",
+  "topInsights": [
+    {
+      "id": "npuls-016",
+      "title": "Event 'Leren zonder drempels' – workshops flexibel onderwijs",
+      "summary": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden. Praktische handvatten voor implementatie in de eigen instelling.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Leren zonder drempels: Aan de slag!",
+        "speaker": "Npuls experts flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2026-01-20"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Workshopkeuze voor deelnemers. Thema's: microcredentials, digitale identiteit (eduwallet), standaarden voor leren zonder drempels. Event in januari 2026, inmiddels gehouden – materialen beschikbaar.",
+      "external_source": "npuls.nl/agenda/leren-zonder-drempels-event",
+      "product_type": "Evenement (workshop)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Toekomst van Werk & Vaardigheden en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Event 'Leren zonder drempels' – workshops flexibel onderwijs\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-001",
+      "title": "AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs",
+      "summary": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers. Biedt een gedeeld vocabulaire en aanpak voor mbo, hbo en wo.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "AI-GO! Een raamwerk voor AI-geletterdheid in het onderwijs",
+        "speaker": "Npuls team AI & Data",
+        "track": "AI- en datageletterdheid",
+        "date": "2025-07-14"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Het raamwerk biedt structuur voor instellingen om AI-geletterdheid te verankeren in curriculum, beleid en docentprofessionalisering. Het onderscheidt technische vaardigheden, kritisch denken en ethisch bewustzijn als kerndimensies.",
+      "external_source": "npuls.nl/kennisbank/ai-go-een-raamwerk-voor-ai-geletterdheid-in-het-onderwijs",
+      "product_type": "Kennisproduct (visiedocument + tool)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-002",
+      "title": "Visie op toetsing, examinering en AI (+ 4 handreikingen)",
+      "summary": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Visie op toetsing en examinering: Naar een AI-bewuste toetspraktijk",
+        "speaker": "K. Beekman (Fontys), S. Draaijer (VU), J. Beckers (Fontys)",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2025-05-27"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Privacy, Ethiek & Verantwoorde AI",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Vier downloadbare handreikingen: (1) Toetsing in het AI-tijdperk, (2) AI-integratie op programmaniveau/curriculumontwerp, (3) Ontwerpen van AI-gedreven toetstaken, (4) Aanpakken voor examencommissies. Focus op authenticiteit, validiteit, eerlijkheid en diplomawaarde.",
+      "external_source": "npuls.nl/kennisbank/visie-op-toetsing-examinering-en-ai-handreikingen",
+      "product_type": "Kennisproduct (visie + 4 handreikingen, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Visie op toetsing, examinering en AI (+ 4 handreikingen)\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-008",
+      "title": "Microcredentials – leergang en implementatiegids",
+      "summary": "Npuls stimuleert microcredentialing in mbo, hbo en wo via pilots, een magazine en implementatieondersteuning. Microcredentials geven zelfstandige waarde aan kleinere leereenenheden en bevorderen leven lang leren.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Microcredentials: van pilot naar sector-implementatie",
+        "speaker": "Npuls team Flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2024-09-13"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Magazine 'Leven lang leren met microcredentials' (48 pagina's). Pilots in hbo en wo sinds 2021, mbo-pilots gestart 2024. Onderdeel van Flexibel leren-transformatiehub. Koppeling met eduwallet voor digitale certificering.",
+      "external_source": "npuls.nl/en/microcredentials/",
+      "product_type": "Kennisproduct (magazine + implementatiegids)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Toekomst van Werk & Vaardigheden.",
+        "core_idea": "Npuls stimuleert microcredentialing in mbo, hbo en wo via pilots, een magazine en implementatieondersteuning.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Microcredentials – leergang en implementatiegids\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-011",
+      "title": "Competentieprofiel voor netwerk docentondersteuning",
+      "summary": "Landelijk competentieprofiel voor docentondersteuners in mbo, hbo en wo. Beschrijft vijf competentiegebieden (van coach tot innovator) en biedt instellingen een gedeeld kader voor professionalisering.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "Competentieprofiel voor netwerk docentondersteuning in het vervolgonderwijs",
+        "speaker": "Npuls team Centers for Teaching & Learning",
+        "track": "Docentondersteuning & professionalisering",
+        "date": "2025-09-24"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Relevant voor docentondersteuners zelf, leidinggevenden, HR en beleidsadviseurs. Biedt structuur voor selectie, begeleiding en strategische positionering. Gepresenteerd op MBO Digitaal conferentie (3 oktober 2025). Onderdeel van de CTL-aanpak van Npuls.",
+      "external_source": "npuls.nl/kennisbank/competentieprofiel-docentondersteuning",
+      "product_type": "Kennisproduct (profiel, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Toekomst van Werk & Vaardigheden.",
+        "core_idea": "Landelijk competentieprofiel voor docentondersteuners in mbo, hbo en wo.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Competentieprofiel voor netwerk docentondersteuning\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-014",
+      "title": "ImpactScan – digitale open leermaterialen",
+      "summary": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL). Zes aandachtspunten, vijf ontwikkelfasen. Helpt cyclisch verbeteren en evidence-informed werken.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "ImpactScan – begeleidingsinstrument voor digitale open leermaterialen",
+        "speaker": "Npuls team Onderwijsmiddelen",
+        "track": "Digitale leermaterialen",
+        "date": "2025-06-11"
+      },
+      "themes": [
+        "Onderwijsinnovatie & Didactiek",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Aandachtspunten: Visie & Beleid, Cultuur, Kwaliteit, Proces, Technologie en Samenwerking. Onderdeel van regeling OpenUp (24 instellingen). Aanvullend aan de Gereedheidsscan.",
+      "external_source": "npuls.nl/kennisbank/impactscan/",
+      "product_type": "Kennisproduct (scan/instrument)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL).",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Onderwijsinnovatie & Didactiek.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"ImpactScan – digitale open leermaterialen\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-019",
+      "title": "Webinar: De AI-waaier – van geen AI naar co-creatie",
+      "summary": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten. Praktische handvatten voor elke fase van de adoptiecurve.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "De AI-waaier – van geen AI naar co-creatie",
+        "speaker": "Npuls team Digitaal toetsen",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2026-05-21"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Online webinar, 21 mei 2026, 15:00-16:00. Koppeling aan digitaal toetsen en ontwikkelen. Onderdeel van de reeks Npuls-webinars over verantwoord AI-gebruik.",
+      "external_source": "npuls.nl/agenda/webinar-de-ai-waaier-van-geen-ai-naar-co-creatie",
+      "product_type": "Evenement (webinar)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Webinar: De AI-waaier – van geen AI naar co-creatie\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-021",
+      "title": "Conferentie Content Advies Raad (CAR) – leermaterialen",
+      "summary": "Jaarlijkse conferentie (editie 3: 15 mei 2025) over kwalitatieve, betaalbare en impactvolle digitale leermaterialen. Thema's: erkennen en waarderen van docenten, contentbeheer, data-inzichten voor contentkeuzes.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Conferentie 'Samen werken aan kwalitatieve, betaalbare en impactvolle leermaterialen'",
+        "speaker": "Content Advies Raad (CAR) / Npuls",
+        "track": "Digitale leermaterialen",
+        "date": "2025-05-15"
+      },
+      "themes": [
+        "Samenwerking & Kennisdeling",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "3e editie CAR-conferentie. Input voor oprichtingsmodel Content Advies Raad. Volgende bijeenkomst: 6 oktober 2026 bij SURF-kantoor Utrecht. De CAR bevordert co-creatie en hergebruik van open digitale leermaterialen.",
+      "external_source": "npuls.nl/agenda/conferentie-samen-werken-aan-kwalitatieve-betaalbare-en-impactvolle-leermaterialen-3/",
+      "product_type": "Evenement (conferentie)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Jaarlijkse conferentie (editie 3: 15 mei 2025) over kwalitatieve, betaalbare en impactvolle digitale leermaterialen.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Samenwerking & Kennisdeling.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Conferentie Content Advies Raad (CAR) – leermaterialen\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    }
+  ],
+  "signals": [],
+  "risks": [],
+  "provocations": [],
+  "tools": [
+    {
+      "id": "npuls-016",
+      "title": "Event 'Leren zonder drempels' – workshops flexibel onderwijs",
+      "summary": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden. Praktische handvatten voor implementatie in de eigen instelling.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Leren zonder drempels: Aan de slag!",
+        "speaker": "Npuls experts flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2026-01-20"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Workshopkeuze voor deelnemers. Thema's: microcredentials, digitale identiteit (eduwallet), standaarden voor leren zonder drempels. Event in januari 2026, inmiddels gehouden – materialen beschikbaar.",
+      "external_source": "npuls.nl/agenda/leren-zonder-drempels-event",
+      "product_type": "Evenement (workshop)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Toekomst van Werk & Vaardigheden en Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Npuls-event op 20 januari 2026: workshops voor onderwijsprofessionals over flexibel leren, microcredentials, de eduwallet en standaarden.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Event 'Leren zonder drempels' – workshops flexibel onderwijs\" met je directe team.",
+        "relevance_score": 9,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-001",
+      "title": "AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs",
+      "summary": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers. Biedt een gedeeld vocabulaire en aanpak voor mbo, hbo en wo.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "AI-GO! Een raamwerk voor AI-geletterdheid in het onderwijs",
+        "speaker": "Npuls team AI & Data",
+        "track": "AI- en datageletterdheid",
+        "date": "2025-07-14"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Het raamwerk biedt structuur voor instellingen om AI-geletterdheid te verankeren in curriculum, beleid en docentprofessionalisering. Het onderscheidt technische vaardigheden, kritisch denken en ethisch bewustzijn als kerndimensies.",
+      "external_source": "npuls.nl/kennisbank/ai-go-een-raamwerk-voor-ai-geletterdheid-in-het-onderwijs",
+      "product_type": "Kennisproduct (visiedocument + tool)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Evidence-informed raamwerk dat onderwijsprofessionals helpt AI-geletterdheid te begrijpen en te bevorderen bij studenten én medewerkers.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"AI-GO! Raamwerk voor AI-geletterdheid in het onderwijs\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-002",
+      "title": "Visie op toetsing, examinering en AI (+ 4 handreikingen)",
+      "summary": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Visie op toetsing en examinering: Naar een AI-bewuste toetspraktijk",
+        "speaker": "K. Beekman (Fontys), S. Draaijer (VU), J. Beckers (Fontys)",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2025-05-27"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Privacy, Ethiek & Verantwoorde AI",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Vier downloadbare handreikingen: (1) Toetsing in het AI-tijdperk, (2) AI-integratie op programmaniveau/curriculumontwerp, (3) Ontwerpen van AI-gedreven toetstaken, (4) Aanpakken voor examencommissies. Focus op authenticiteit, validiteit, eerlijkheid en diplomawaarde.",
+      "external_source": "npuls.nl/kennisbank/visie-op-toetsing-examinering-en-ai-handreikingen",
+      "product_type": "Kennisproduct (visie + 4 handreikingen, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Landelijke visie op AI-bewuste toetspraktijken voor mbo, hbo en wo, met vier concrete handreikingen: AI in het tijdperk van toetsing, curriculumontwerp, toetstaken ontwerpen, en aanpak voor examencommissies.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Visie op toetsing, examinering en AI (+ 4 handreikingen)\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-008",
+      "title": "Microcredentials – leergang en implementatiegids",
+      "summary": "Npuls stimuleert microcredentialing in mbo, hbo en wo via pilots, een magazine en implementatieondersteuning. Microcredentials geven zelfstandige waarde aan kleinere leereenenheden en bevorderen leven lang leren.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Microcredentials: van pilot naar sector-implementatie",
+        "speaker": "Npuls team Flexibel leren",
+        "track": "Wendbaar georganiseerd onderwijs",
+        "date": "2024-09-13"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Magazine 'Leven lang leren met microcredentials' (48 pagina's). Pilots in hbo en wo sinds 2021, mbo-pilots gestart 2024. Onderdeel van Flexibel leren-transformatiehub. Koppeling met eduwallet voor digitale certificering.",
+      "external_source": "npuls.nl/en/microcredentials/",
+      "product_type": "Kennisproduct (magazine + implementatiegids)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Toekomst van Werk & Vaardigheden.",
+        "core_idea": "Npuls stimuleert microcredentialing in mbo, hbo en wo via pilots, een magazine en implementatieondersteuning.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Microcredentials – leergang en implementatiegids\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-011",
+      "title": "Competentieprofiel voor netwerk docentondersteuning",
+      "summary": "Landelijk competentieprofiel voor docentondersteuners in mbo, hbo en wo. Beschrijft vijf competentiegebieden (van coach tot innovator) en biedt instellingen een gedeeld kader voor professionalisering.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "Competentieprofiel voor netwerk docentondersteuning in het vervolgonderwijs",
+        "speaker": "Npuls team Centers for Teaching & Learning",
+        "track": "Docentondersteuning & professionalisering",
+        "date": "2025-09-24"
+      },
+      "themes": [
+        "Toekomst van Werk & Vaardigheden",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Relevant voor docentondersteuners zelf, leidinggevenden, HR en beleidsadviseurs. Biedt structuur voor selectie, begeleiding en strategische positionering. Gepresenteerd op MBO Digitaal conferentie (3 oktober 2025). Onderdeel van de CTL-aanpak van Npuls.",
+      "external_source": "npuls.nl/kennisbank/competentieprofiel-docentondersteuning",
+      "product_type": "Kennisproduct (profiel, PDF)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Toekomst van Werk & Vaardigheden.",
+        "core_idea": "Landelijk competentieprofiel voor docentondersteuners in mbo, hbo en wo.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Toekomst van Werk & Vaardigheden.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Competentieprofiel voor netwerk docentondersteuning\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-014",
+      "title": "ImpactScan – digitale open leermaterialen",
+      "summary": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL). Zes aandachtspunten, vijf ontwikkelfasen. Helpt cyclisch verbeteren en evidence-informed werken.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "ImpactScan – begeleidingsinstrument voor digitale open leermaterialen",
+        "speaker": "Npuls team Onderwijsmiddelen",
+        "track": "Digitale leermaterialen",
+        "date": "2025-06-11"
+      },
+      "themes": [
+        "Onderwijsinnovatie & Didactiek",
+        "Organisatieverandering & Leiderschap"
+      ],
+      "full_text": "Aandachtspunten: Visie & Beleid, Cultuur, Kwaliteit, Proces, Technologie en Samenwerking. Onderdeel van regeling OpenUp (24 instellingen). Aanvullend aan de Gereedheidsscan.",
+      "external_source": "npuls.nl/kennisbank/impactscan/",
+      "product_type": "Kennisproduct (scan/instrument)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Zelf-assessmentinstrument voor instellingen die aan de slag willen met digitale en open leermaterialen (DOL).",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Onderwijsinnovatie & Didactiek.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"ImpactScan – digitale open leermaterialen\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-019",
+      "title": "Webinar: De AI-waaier – van geen AI naar co-creatie",
+      "summary": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten. Praktische handvatten voor elke fase van de adoptiecurve.",
+      "type": "tool",
+      "horizon": "now",
+      "source": {
+        "session_title": "De AI-waaier – van geen AI naar co-creatie",
+        "speaker": "Npuls team Digitaal toetsen",
+        "track": "Digitaal toetsen en ontwikkelen",
+        "date": "2026-05-21"
+      },
+      "themes": [
+        "AI Adoptie & Tools",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "Online webinar, 21 mei 2026, 15:00-16:00. Koppeling aan digitaal toetsen en ontwikkelen. Onderdeel van de reeks Npuls-webinars over verantwoord AI-gebruik.",
+      "external_source": "npuls.nl/agenda/webinar-de-ai-waaier-van-geen-ai-naar-co-creatie",
+      "product_type": "Evenement (webinar)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Webinar (21 mei 2026) over de progressie van AI-adoptie in het onderwijs: van terughoudend gebruik naar volledige co-creatie met studenten.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond AI Adoptie & Tools.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Webinar: De AI-waaier – van geen AI naar co-creatie\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    },
+    {
+      "id": "npuls-021",
+      "title": "Conferentie Content Advies Raad (CAR) – leermaterialen",
+      "summary": "Jaarlijkse conferentie (editie 3: 15 mei 2025) over kwalitatieve, betaalbare en impactvolle digitale leermaterialen. Thema's: erkennen en waarderen van docenten, contentbeheer, data-inzichten voor contentkeuzes.",
+      "type": "practice",
+      "horizon": "now",
+      "source": {
+        "session_title": "Conferentie 'Samen werken aan kwalitatieve, betaalbare en impactvolle leermaterialen'",
+        "speaker": "Content Advies Raad (CAR) / Npuls",
+        "track": "Digitale leermaterialen",
+        "date": "2025-05-15"
+      },
+      "themes": [
+        "Samenwerking & Kennisdeling",
+        "Onderwijsinnovatie & Didactiek"
+      ],
+      "full_text": "3e editie CAR-conferentie. Input voor oprichtingsmodel Content Advies Raad. Volgende bijeenkomst: 6 oktober 2026 bij SURF-kantoor Utrecht. De CAR bevordert co-creatie en hergebruik van open digitale leermaterialen.",
+      "external_source": "npuls.nl/agenda/conferentie-samen-werken-aan-kwalitatieve-betaalbare-en-impactvolle-leermaterialen-3/",
+      "product_type": "Evenement (conferentie)",
+      "perspective": {
+        "why_relevant": "Dit inzicht raakt direct aan de kerntaken van een Opleidingsmanager: Onderwijsinnovatie & Didactiek.",
+        "core_idea": "Jaarlijkse conferentie (editie 3: 15 mei 2025) over kwalitatieve, betaalbare en impactvolle digitale leermaterialen.",
+        "why_it_matters": "Instellingen die hier niets mee doen lopen achter op sectorontwikkelingen rond Samenwerking & Kennisdeling.",
+        "team_question": "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+        "next_step": "Plan binnen 2 weken een verkenningsgesprek over \"Conferentie Content Advies Raad (CAR) – leermaterialen\" met je directe team.",
+        "relevance_score": 6,
+        "action_score": 10
+      }
+    }
+  ],
+  "themeMatrix": [
+    {
+      "theme": "AI Adoptie & Tools",
+      "now": 3,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Toekomst van Werk & Vaardigheden",
+      "now": 3,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Onderwijsinnovatie & Didactiek",
+      "now": 6,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Organisatieverandering & Leiderschap",
+      "now": 3,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Betrokkenheid & Mensgerichtheid",
+      "now": 0,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Platform & Infrastructuur",
+      "now": 0,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Privacy, Ethiek & Verantwoorde AI",
+      "now": 1,
+      "near": 0,
+      "long": 0
+    },
+    {
+      "theme": "Samenwerking & Kennisdeling",
+      "now": 1,
+      "near": 0,
+      "long": 0
+    }
+  ],
+  "topTeamQuestions": [
+    "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+    "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?",
+    "Hoe zorgen wij als Opleidingsmanager dat we dit inzicht concreet vertalen naar ons werk?"
+  ]
+}
